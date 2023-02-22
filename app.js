@@ -177,8 +177,8 @@
 // });
 
 
-$(function(){
-  $('button').on('click', function(){
-    $('ul').children().css('color','red');
-  });
-});
+// $(function(){
+//   $('button').on('click', function(){
+//     $('ul').children().css('color','red');
+//   });
+// });
